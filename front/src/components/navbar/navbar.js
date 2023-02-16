@@ -1,5 +1,12 @@
 import React from "react"; 
-import { Container,Nav, Navbar, DropdownButton, Dropdown, Row, Col} from "react-bootstrap";
+import { 
+  Container,
+  Nav, 
+  Navbar, 
+  DropdownButton, 
+  Dropdown, 
+  Row, 
+} from "react-bootstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faUserCircle } from "@fortawesome/free-solid-svg-icons";
 import './navbar.css';
